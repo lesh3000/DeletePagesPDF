@@ -1,0 +1,70 @@
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\aspnet-mvc_razor_app.dll.config
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\aspnet-mvc_razor_app.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\aspnet-mvc_razor_app.pdb
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\GdPicture.NET.14.WEB.DocuVieware.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\Microsoft.Web.Infrastructure.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\Newtonsoft.Json.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Net.Http.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Net.Http.Formatting.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Security.Cryptography.Algorithms.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Security.Cryptography.Encoding.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Security.Cryptography.Primitives.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Security.Cryptography.X509Certificates.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.Helpers.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.Http.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.Http.WebHost.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.Mvc.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.Razor.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.WebPages.Deployment.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.WebPages.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.WebPages.Razor.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\GdPicture.NET.14.WEB.DocuVieware.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\Newtonsoft.Json.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Net.Http.Formatting.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.Helpers.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.Http.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.Http.WebHost.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.Mvc.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.Razor.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.WebPages.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.WebPages.Deployment.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\bin\System.Web.WebPages.Razor.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\obj\Debug\aspnet-mvc_razor_app.csprojAssemblyReference.cache
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\obj\Debug\aspnet-mvc_razor_app.csproj.CopyComplete
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\obj\Debug\aspnet-mvc_razor_app.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app\obj\Debug\aspnet-mvc_razor_app.pdb
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\aspnet-mvc_razor_app.dll.config
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\aspnet-mvc_razor_app.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\aspnet-mvc_razor_app.pdb
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\GdPicture.NET.14.WEB.DocuVieware.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\Microsoft.Web.Infrastructure.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\Newtonsoft.Json.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Net.Http.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Net.Http.Formatting.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Security.Cryptography.Algorithms.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Security.Cryptography.Encoding.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Security.Cryptography.Primitives.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Security.Cryptography.X509Certificates.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.Helpers.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.Http.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.Http.WebHost.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.Mvc.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.Razor.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.WebPages.Deployment.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.WebPages.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.WebPages.Razor.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\GdPicture.NET.14.WEB.DocuVieware.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\Newtonsoft.Json.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Net.Http.Formatting.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.Helpers.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.Http.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.Http.WebHost.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.Mvc.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.Razor.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.WebPages.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.WebPages.Deployment.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\bin\System.Web.WebPages.Razor.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\obj\Debug\aspnet-mvc_razor_app.csprojAssemblyReference.cache
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\obj\Debug\aspnet-mvc_razor_app.csproj.CopyComplete
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\obj\Debug\aspnet-mvc_razor_app.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnet-mvc_razor_app - Copy\obj\Debug\aspnet-mvc_razor_app.pdb

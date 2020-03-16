@@ -1,0 +1,117 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DocuVieware - Standalone Viewer Demo.</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="~/Scripts/jquery-3.1.0.min.js"></script>
+    <script src="~/Scripts/docuvieware-min.js"></script>
+    <link href="~/Content/docuvieware-min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/standalone.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+
+
+
+    @{
+        GdPicture14.WEB.DocuVieware docuVieware = new GdPicture14.WEB.DocuVieware
+        {
+            ID = "DocuVieware1",
+            Timeout = MvcApplication.SESSION_TIMEOUT,
+            Height = new System.Web.UI.WebControls.Unit("100%"),
+            Width = new System.Web.UI.WebControls.Unit("100%"),
+            SinglePageView = false,
+            ShowAnnotationsCommentsSnapIn = false,
+            ShowAnnotationsSnapIn = false,
+            ShowBookmarksSnapIn = false,
+            ShowThumbnailsSnapIn = true,
+            ShowTextSearchSnapIn = false,
+            ForceScrollBars = false,
+            AllowedExportFormats = "*",
+            MaxUploadSize = 52428800,
+            CollapsedSnapIn = true,
+            EnableMouseModeButtons = false,
+            EnableFormFieldsEdition = true,
+            EnableThumbnailDragDrop = true,
+
+            //Thumbnails settings
+            EnableMultipleThumbnailSelection = true,
+            ThumbnailHeight = 80,
+            ThumbnailWidth = 80,
+            SnapInPanelDefaultWidth = 300
+
+        };
+        docuVieware.RenderControl(Output);
+        docuVieware.Dispose();
+    }
+
+    
+
+        <button id="buttonDelete" onclick="deletePages();" >
+            <i class="fa fa-trash-o"></i>
+        </button>
+
+
+    
+
+    <style>
+        #buttonDelete {
+            position: absolute;
+            left: 50%;
+            margin-left: -50vw;
+            font-size: 20px;
+            top: 300px;
+            background-color: #213E4E;
+            border: none;
+            color: white;
+            padding: 8px 9px;
+            visibility: hidden;
+        }
+
+        
+
+        
+    </style>
+
+    <script>
+
+       
+
+
+        function deletePages() {
+
+            DocuViewareAPI.PostCustomServerAction('DocuVieware1', true, "delete", DocuViewareAPI.GetSelectedThumbnailItems("DocuVieware1"), function (result) {
+                
+
+            }, function () { console.log("error") });
+        }
+
+
+
+        function RegisterOnNewDocumentLoadedOnDocuViewareAPIReady() {
+            if (typeof DocuViewareAPI !== "undefined" && DocuViewareAPI.IsInitialized("DocuVieware1")) {
+                DocuViewareAPI.RegisterOnNewDocumentLoaded("DocuVieware1", function () {
+                    DocuViewareAPI.SelectThumbnailSnapIn("DocuVieware1");
+                    $('#buttonDelete').css("visibility", "visible");
+                });
+            }
+            else {
+                setTimeout(function () { RegisterOnNewDocumentLoadedOnDocuViewareAPIReady() }, 10);
+            }
+        }
+        document.addEventListener("DOMContentLoaded", function () {
+            RegisterOnNewDocumentLoadedOnDocuViewareAPIReady();
+        }, false);
+       
+
+    </script>
+
+</body>
+</html>
